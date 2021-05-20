@@ -1,0 +1,12 @@
+.mainPageButton{
+    width: 150px;
+    border-radius: 50;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background: url("aa.jpg");
+background-size: cover;
+}
